@@ -1,6 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## Name : GEETHU R
-## Register No.:212224040089
+## Register No. :212224040089
 ## AIM
 To implement the sliding window protocol.
 ## ALGORITHM:
